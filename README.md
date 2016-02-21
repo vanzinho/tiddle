@@ -25,7 +25,14 @@ more information about our project.* **:)**
   <a href='https://github.com/ionno/tiddle/blob/master/LICENSE'>
     <img src='https://img.shields.io/github/license/ionno/tiddle.svg' title='License' />
   </a>
+  <a href='https://waffle.io/ionno/tiddle'>
+    <img src='https://badge.waffle.io/ionno/tiddle.svg?label=ready&title=Ready' title='Ready' />
+  </a>
+  <a href='https://waffle.io/ionno/tiddle'>
+    <img src='https://badge.waffle.io/ionno/tiddle.svg?label=development&title=Development' title='License' />
+  </a>
 </div>
+
 
 <br><br><br><br>
 
