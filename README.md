@@ -4,7 +4,9 @@
   </a>
 </div>
 
-*Hey, welcome to Tiddle's repository. Looking for information about what we're creating?
+*Hey, welcome to Tiddle's repository.
+Tiddle is the new version of "uFormatter", completely redesigned and including new features.
+Looking for information about what we're creating?
 We are developing some amazing things at this moment, but soon we will update this README file with
 more information about our project.* **:)**
 
