@@ -29,7 +29,7 @@ more information about our project.* **:)**
     <img src='https://badge.waffle.io/ionno/tiddle.svg?label=ready&title=Ready' title='Ready' />
   </a>
   <a href='https://waffle.io/ionno/tiddle'>
-    <img src='https://badge.waffle.io/ionno/tiddle.svg?label=development&title=Development' title='License' />
+    <img src='https://badge.waffle.io/ionno/tiddle.svg?label=development&title=Development' title='Development' />
   </a>
 </div>
 
