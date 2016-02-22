@@ -16,12 +16,13 @@
     <modules>
         <module>tiddle-bs</module>
         <module>tiddle-core</module>
+        <module>tiddle-views</module>
     </modules>
     
     <licenses>
         <license>
             <name>The MIT License</name>
-            <comments>"Tiddle core" and "Tiddle laucher" is under the MIT license.</comments>
+            <comments>"Tiddle core", "Tiddle launcher" and "Tiddle views" is under the MIT license.</comments>
             <url>https://opensource.org/licenses/MIT</url>
             <distribution>repo</distribution>
         </license>
