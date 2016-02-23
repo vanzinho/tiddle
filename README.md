@@ -1,17 +1,19 @@
 <div align='center'>
   <a href='https://github.com/ionno/tiddle'>
-    <img src='http://i.imgur.com/cdVGJBI.png' title='The Tiddle Repository'/>
+    <img src='http://i.imgur.com/lQReD9p.png' title='The Tiddle Repository'/>
   </a>
   <br>
   <sub>Image by <a href='https://github.com/Ranks/emojione'>Emojione</a> ❤</sub>
 </div>
 
-<br><br>
+<br>
 *Hey, welcome to Tiddle's repository.
 Tiddle is the new version of "uFormatter", completely redesigned and including new features.
 Looking for information about what we're creating?
 We are developing some amazing things at this moment, but soon we will update this README file with
 more information about this project.* **:)**
+
+<kbd><a href='https://github.com/ionno/tiddle/blob/master/README-pt-BR.md'><b>pt-br</b></a></kbd>
 
 ----
 
