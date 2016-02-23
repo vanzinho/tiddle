@@ -4,9 +4,9 @@
   </a>
   <br>
   <sub>Image by <a href='https://github.com/Ranks/emojione'>Emojione</a> ❤</sub>
-  <br>
 </div>
 
+<br><br>
 *Hey, welcome to Tiddle's repository.
 Tiddle is the new version of "uFormatter", completely redesigned and including new features.
 Looking for information about what we're creating?
