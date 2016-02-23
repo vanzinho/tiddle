@@ -22,7 +22,7 @@ import java.util.Optional;
  *      Is the type of the block content. {@code Block}s can have plain text({@code String}),
  *      lists({@code List<T>}) and tables({@code List<List<T>>}) and other types of content.
  */
-public abstract class Block<T> implements IBlock {
+public abstract class Block<T> implements ContentBlock {
     
     /**
      * The {@code Block} identifier.

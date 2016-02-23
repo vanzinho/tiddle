@@ -10,6 +10,6 @@ package com.github.ionno.tiddle.core.blocks;
  * options to {@link ContentType} enum and reference it on {@link AbstractBlock}
  * implementation.
  */
-public interface IBlock {
+public interface ContentBlock {
     ContentType getContentType();
 }
