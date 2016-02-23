@@ -21,8 +21,8 @@ public class BBcodes {
      *      The content rendered as BBcode: {@code [code]content[/code]}.
      * 
      */
-    public static String set(String bbcode, String content){
-        return MessageFormat.format(BBCODE, bbcode, content);
+    public static String set(BBcode bbcode, String content){
+        return MessageFormat.format(BBCODE, bbcode.key(), content);
     }
     
     /**
@@ -37,8 +37,8 @@ public class BBcodes {
      * @return 
      *      The content rendered as BBcode: {@code [code=value]content[/code]}.
      */
-    public static String set(String bbcode, String value, String content){
-        return MessageFormat.format(BBCODE_WITH_VALUE, bbcode, value, content);
+    public static String set(BBcode bbcode, String value, String content){
+        return MessageFormat.format(BBCODE_WITH_VALUE, bbcode.key(), value, content);
     }
 
     /**
@@ -54,7 +54,7 @@ public class BBcodes {
      *      The content rendered as BBcode, containing all parameters wrapped 
      *      in a {@code " "} string. E.g: {@code [code="p1:v1,p2:v2,p3:v3"]content[/code]}.
      */
-    public static String set(String bbcode, Map<String, String> parameters, String content){
+    public static String set(BBcode bbcode, Map<String, String> parameters, String content){
         
         StringBuilder sb = new StringBuilder();
         parameters.entrySet().stream().forEach((each) -> {
