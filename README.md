@@ -2,6 +2,7 @@
   <a href='https://github.com/ionno/tiddle'>
     <img src='http://i.imgur.com/cdVGJBI.png' title='The Tiddle Repository'/>
   </a>
+  <br>
   <sub>Image by <a href='https://github.com/Ranks/emojione'>Emojione</a> ❤</sub>
   <br>
 </div>
