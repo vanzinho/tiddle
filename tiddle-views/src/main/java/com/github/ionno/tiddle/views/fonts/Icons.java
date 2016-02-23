@@ -19,6 +19,8 @@ public class Icons {
     
     private static Font font;
     
+    private Icons(){}
+    
     public static void setIconModel(IconModel model){
         try {
             font = Font.createFont(Font.TRUETYPE_FONT, model.getFontStream());
@@ -35,7 +37,7 @@ public class Icons {
         return set(icon, Color.BLACK, size);
     }
     
-    public static Image render(IconModel model, Color color, float size){
+    private static Image render(IconModel model, Color color, float size){
         font = font.deriveFont(size);
         return setIconImage(Character.toString(model.unicode()), color);
     }
