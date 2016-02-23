@@ -1,14 +1,16 @@
 <div align='center'>
   <a href='https://github.com/ionno/tiddle'>
-    <img src='http://i.imgur.com/6fN6ttI.png' title='The Tiddle Repository'/>
+    <img src='http://i.imgur.com/cdVGJBI.png' title='The Tiddle Repository'/>
   </a>
+  <sub>Image by <a href='https://github.com/Ranks/emojione'>Emojione</a> ❤</sub>
+  <br>
 </div>
 
 *Hey, welcome to Tiddle's repository.
 Tiddle is the new version of "uFormatter", completely redesigned and including new features.
 Looking for information about what we're creating?
 We are developing some amazing things at this moment, but soon we will update this README file with
-more information about our project.* **:)**
+more information about this project.* **:)**
 
 ----
 
@@ -32,11 +34,3 @@ more information about our project.* **:)**
     <img src='https://badge.waffle.io/ionno/tiddle.svg?label=development&title=Development' title='Development' />
   </a>
 </div>
-
-
-<br><br><br><br>
-
-<div align='center'>
-  <sub><sub>Image by <a href='https://github.com/Ranks/emojione'>Emojione</a> ❤</sub></sub>
-</div>
-
