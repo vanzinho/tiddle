@@ -13,6 +13,6 @@ import com.github.ionno.tiddle.core.blocks.ContentBlock;
  * @param <T>
  *      The type of the target content.
  */
-interface IFormat<T extends Block & ContentBlock> {
+public interface IFormat<T extends Block & ContentBlock> {
     String format(T block);
 }

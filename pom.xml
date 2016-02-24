@@ -22,7 +22,7 @@
     <licenses>
         <license>
             <name>The MIT License</name>
-            <comments>"Tiddle core", "Tiddle launcher" and "Tiddle views" is under the MIT license.</comments>
+            <comments>Tiddle is under the MIT license.</comments>
             <url>https://opensource.org/licenses/MIT</url>
             <distribution>repo</distribution>
         </license>
