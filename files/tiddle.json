@@ -1,0 +1,18 @@
+{
+    "self": {
+        "title": "Tiddle",
+        "version": "0.1.0.0"
+    },
+    
+    "dist": {
+        "url": ""
+    },
+    
+    "notifications": [{
+        "title": "",
+        "content": ""
+    }, {
+        "title": "",
+        "content":""
+    }]
+}
